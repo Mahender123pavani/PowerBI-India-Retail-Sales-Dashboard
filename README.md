@@ -1,53 +1,78 @@
-📊 India Retail Sales Dashboard — Power BI
+India Retail Sales Analysis – Power BI Project
 
-🔍 Project Overview
+📌 Project Overview
 
-This Power BI dashboard analyzes retail sales performance across major cities in India. It highlights key business metrics such as sales, profit, product categories, and discounts to support data-driven decision making.
+This Power BI project analyzes real-time retail sales data from India to uncover insights related to sales performance, product demand, regional contribution, and customer behavior. The goal of the project is to support business decision-making using interactive dashboards and visual analytics.
 
-🎯 Key Insights
+🎯 Objectives
 
-Total Sales, Profit & Quantity KPIs
+Track overall sales performance and revenue trends
 
-Category-wise Sales Trends
+Identify top-performing products and categories
 
-City-wise Retail Performance
+Analyze region-wise and state-wise sales contribution
 
-Customer Segment Analysis
+Understand customer purchase behavior
 
-Impact of Discount on Profit
-
-
-📁 Dataset Details
-
-1000 rows — Realistic retail data
-
-Year → 2023 (India market)
-
-Columns → Sales, Profit, City, Category, Segment, Quantity, Discount
+Detect low-performing areas to improve business strategy
 
 
-🛠 Tools & Techniques
+🛠 Tools Used
 
 Power BI Desktop
 
-Power Query (Data Cleaning)
+GitHub for project hosting
 
-DAX Measures
-
-Data Modeling
-
-Interactive Visualizations
+Excel/CSV dataset (India Retail Sales 2023)
 
 
-📂 Files in This Repository
+📊 Key Insights
 
-File	Description
+Top product categories contribute the highest percentage of total revenue
 
-.pbix	Power BI Dashboard File
-.csv	Dataset used in the project
+Metro cities show stronger sales performance compared to rural areas
+
+Seasonal trends affect monthly revenue fluctuations
+
+Discount strategies influence customer purchase behavior
 
 
-👤 Author
+📁 Project Structure
 
-Gundapu Laxmi Prasanna
-Aspiring Power BI Developer | Data Analyst
+📦 India-Retail-Sales-PowerBI
+ ┣ 📊 India_Retail_Sales_Report.pbix
+ ┣ 📄 India_Retail_Sales_2023.csv
+ ┗ 📝 README.md
+
+🚀 Features of Dashboard
+
+Interactive filtering and drill-down
+
+Product-wise revenue insights
+
+Geographic sales distribution
+
+Monthly and quarterly trends
+
+Customer segment analysis
+
+
+✅ How to Run
+
+1. Download the PBIX file from the repository
+
+
+2. Open using Power BI Desktop
+
+
+3. Load dataset if refresh is needed
+
+
+
+🔗 Dashboard Preview
+
+(You can add dashboard image here after publishing)
+
+🏁 Conclusion
+
+The dashboard offers useful business insights that help retailers improve product strategy, manage inventory better, and increase profitability.
